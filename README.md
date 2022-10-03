@@ -1,3 +1,3 @@
 # This is a demo
 
-Basic Description
+Basic training for learning purposes.
